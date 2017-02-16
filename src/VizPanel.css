@@ -1,0 +1,14 @@
+
+.placeholder {
+  color: #555;
+
+}
+
+.viz-container {
+  background-color: white;
+  text-align: center;
+  width: calc(60% - 4px);
+  float: left;
+  overflow: auto;
+  height: 100%;
+}

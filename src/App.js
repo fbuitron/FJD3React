@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './NavBar.js';
 import InfoBar from './InfoBar.js';
+import PanelContainer from './PanelContainer.js';
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
       <div>
         <NavBar title="Hello World" />
         <InfoBar caption="Showing all data" />
+        <PanelContainer />
       </div>
     );
   }
