@@ -1,0 +1,13 @@
+
+.infobar-caption {
+  color: #555;
+  font-size: 12px;
+
+}
+
+.info-bar {
+  background-color: #F3F6FB;
+  height: 20px;
+  padding: 5px 50px 5px 50px;
+  text-align: center;
+}
