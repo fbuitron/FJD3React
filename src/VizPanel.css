@@ -12,3 +12,7 @@
   overflow: auto;
   height: 100%;
 }
+.Chart {
+    height: 100%;
+    width: 100%;
+}
